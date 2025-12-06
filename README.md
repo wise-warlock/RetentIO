@@ -1,4 +1,3 @@
-````markdown
 # 🏦 RetentIO: AI-Powered Customer Retention Engine
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
