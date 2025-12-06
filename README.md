@@ -16,9 +16,10 @@
     * **Churn Prediction:** Uses **LightGBM** to predict the probability of a customer leaving.
     * **CLV Modeling:** Estimates future value based on balance and engagement history.
 * **AI Decision Agent:** A rule-based engine combined with **Uplift Modeling** logic to determine the best strategy (e.g., *Retention VIP*, *Cross-sell*, *Do Not Disturb*).
-* **Generative AI Integration:** Uses **Google Gemini 1.5 Flash** to draft personalized SMS/Zalo/Email content for each customer.
+* **Generative AI Integration:** Uses **Google Gemini** to draft personalized SMS/Zalo/Email content for each customer.
 * **Interactive Dashboard:** A professional UI built with **Streamlit** and **Plotly** for visualizing risk and opportunities.
 
+![alt text](diagram-export-12-6-2025-9_44_48-AM.png)
 ---
 
 ## 📂 Project Structure
@@ -91,8 +92,6 @@ This project uses Google Gemini API. You need to set up your API key.
 ```env
 GEMINI_API_KEY=your_google_api_key_here
 ```
-
-*(Get your free key at [Google AI Studio](https://aistudio.google.com/))*
 
 -----
 
