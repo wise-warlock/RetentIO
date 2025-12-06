@@ -19,7 +19,7 @@
 * **Generative AI Integration:** Uses **Google Gemini** to draft personalized SMS/Zalo/Email content for each customer.
 * **Interactive Dashboard:** A professional UI built with **Streamlit** and **Plotly** for visualizing risk and opportunities.
 
-![alt text](diagram-export-12-6-2025-9_44_48-AM.png)
+![alt text](diagram.png)
 ---
 
 ## 📂 Project Structure
@@ -161,3 +161,4 @@ Contributions are welcome\! Please open an issue or submit a pull request for an
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
